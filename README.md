@@ -1,6 +1,6 @@
 ## 🧑‍💻 Team Git AI
  
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?)](https://github.com/Team-Git-AI)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?)](https://github.com/Team-Git-AI)
 [![Created Badge](https://badges.pufler.dev/created/Team-Git-AI/Team-Git-AI)](https://github.com/Team-Git-AI)
 [![Updated Badge](https://badges.pufler.dev/updated/Team-Git-AI/Team-Git-AI)](https://github.com/Team-Git-AI)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Team-Git-AI)](https://github.com/Team-Git-AI)
