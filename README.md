@@ -1,9 +1,9 @@
 ## 🧑‍💻 Team Git AI
  
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png)](https://github.com//Team-Git-AI/)
-[![made Markdown](https://img.shields.io/badge/Made%20with-Markdown%20-8A2BE2)](https://github.com/Team-Git-AI)
-![Created](https://img.shields.io/badge/Created-May%2014,%202025-8A2BE2)
-[![Last Commit](https://img.shields.io/github/last-commit/Team-Git-AI/Team-Git-AI?color=8A2BE2&label=Last%20Commit)](https://github.com/alanmugiwara/alanmugiwara)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png)](https://github.com/Team-Git-AI/Team-Git-AI)
+[![made Markdown](https://img.shields.io/badge/Made%20with-Markdown%20-8A2BE2)](https://github.com/Team-Git-AI/Team-Git-AI)
+[![Created](https://img.shields.io/badge/Created-May%2014,%202025-8A2BE2)](https://github.com/Team-Git-AI/Team-Git-AI)
+[![Last Commit](https://img.shields.io/github/last-commit/Team-Git-AI/Team-Git-AI?color=8A2BE2&label=Last%20Commit)](https://github.com/Team-Git-AI/Team-Git-AI)
 [![profile views](https://komarev.com/ghpvc/?username=Team-Git-A&color=blueviolet)](https://github.com/Team-Git-AI/Team-Git-AI)
 
 # Team Git AI - Repositório de Exercícios Colaborativos
