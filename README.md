@@ -1,10 +1,10 @@
 ## 🧑‍💻 Team Git AI
  
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?)](https://github.com/Team-Git-AI)
-[![Created Badge](https://badges.pufler.dev/created/Team-Git-AI/Team-Git-AI)](https://github.com/Team-Git-AI)
-[![Updated Badge](https://badges.pufler.dev/updated/Team-Git-AI/Team-Git-AI)](https://github.com/Team-Git-AI)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Team-Git-AI)](https://github.com/Team-Git-AI)
-
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png)](https://github.com//Team-Git-AI/)
+[![made Markdown](https://img.shields.io/badge/Made%20with-Markdown%20-8A2BE2)](https://github.com/Team-Git-AI)
+![Created](https://img.shields.io/badge/Created-May%2014,%202025-8A2BE2)
+[![Last Commit](https://img.shields.io/github/last-commit/Team-Git-AI/Team-Git-AI?color=8A2BE2&label=Last%20Commit)](https://github.com/alanmugiwara/alanmugiwara)
+[![profile views](https://komarev.com/ghpvc/?username=Team-Git-A&color=blueviolet)](https://github.com/Team-Git-AI/Team-Git-AI)
 
 # Team Git AI - Repositório de Exercícios Colaborativos
 
@@ -15,7 +15,7 @@ Boas vindas ao repositório de exercícios colaborativos do **Team Git AI**! Est
 Nosso objetivo é:
 
 1. **Praticar a teoria**: Aplicar os conceitos aprendidos em sala de aula em pequenos projetos práticos.
-2. **Trabalharcolaborativamente**: Ganhar experiência em trabalho de equipe, utilizando branches para desenvolver diferentes funcionalidades de um mesmo projeto.
+2. **Trabalhar colaborativamente**: Ganhar experiência em trabalho de equipe, utilizando branches para desenvolver diferentes funcionalidades de um mesmo projeto.
 3. **Maturar o conhecimento**: Desenvolver uma compreensão mais profunda sobre como o controle de versionamento funciona na prática.
 4. **Realizar merges**: Praticar a integração de diferentes branches, gerando uma versão final coesa da aplicação.
 
@@ -32,7 +32,6 @@ O repositório está organizado da seguinte forma:
 - [Alef Silva](https://github.com/alefsilva115)
 - [Álan Cruz](https://github.com/alanmugiwara)
 - [Juninho](https://github.com/stratznovich)
-- [Arthur Bartol](https://github.com/arthurbartol)
 - [Luccas](https://github.com/luccasBs)
 
 ## Regras de Contribuição
@@ -48,8 +47,7 @@ Para garantir uma colaboração eficiente e organizada, pedimos que sigam as seg
 
 ## Ferramentas Sugeridas
 
-- **Git**: Para controle de versionamento.
+- **Git**: Para versionamento.
 - **GitHub**: Para hospedar o repositório e facilitar a colaboração.
 - **WhatsApp**: Para comunicação entre os membros da equipe.
-
 ---
